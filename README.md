@@ -7,7 +7,7 @@
         </a>
       </td>
       <td valign="top" width="50%" align="center">
-        <div style="font-size:24px; font-weight:700; margin:0 0 12px 0;">Mon blog</div>
+        <h1>Mon blog</h1>
         <a href="https://sh44di.me">
           <img src="blog.png" alt="sh44di.me" style="display:block; margin:0 auto; max-width:100%;" />
         </a>
