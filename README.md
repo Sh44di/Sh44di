@@ -1,0 +1,1 @@
+my blog: https://sh44di.me
